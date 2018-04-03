@@ -1,3 +1,7 @@
+# CODE from Coursera. Do not read bellow if you have NOT completed the course
+
+
+
 # deeplearning.ai-Foundations-of-Convolutional-Neural-Networks
 Foundations of Convolutional Neural Networks, deeplearning.ai coursera course
 
